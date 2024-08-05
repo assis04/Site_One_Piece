@@ -2,6 +2,8 @@
 
 ## Site responsivo e interativo
 
+https://assis04.github.io/Site_One_Piece/
+
 Para fazer esse site foi necessario a utilização das seguintes tecnologias, HTML5, CSS3 e JavaScript.
 
 O HTML é a sigla para HyperText Markup Language é uma linguagem de marcação, utilizado para a estruturação do site.
