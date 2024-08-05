@@ -1,6 +1,6 @@
 # Site do One Piece
 
-## Site responsivo e interativo]
+## Site responsivo e interativo
 
 Para fazer esse site foi necessario a utilização das seguintes tecnologias, HTML5, CSS3 e JavaScript.
 
